@@ -1,8 +1,8 @@
 # Jayden Houtekeete
-## Ervaringen
-## Contact
-## Skills
-## Projecten
+## Ervaringen✨
+## Contact📞
+## Skills⚡
+## Projecten📫
 
 
 
