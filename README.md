@@ -1,10 +1,20 @@
 # Jayden Houtekeete
 ## Ervaringen✨
 ## Contact📞
+Tel: +32 474 02 91 80
+Email: jayden.houtekeete1@gmail.com
 ## Skills⚡
+- C-Sharp
+- Blazor
+- HTML
+- CSS
+- Python
+- C++
+- SQL
 ## Projecten📫
-
-
+GIP: https://github.com/JaydenHProgrammer/GIP-JaydenHoutekeete
+React: https://github.com/JaydenHProgrammer/React-JaydenHoutekeete
+JungleSpeed in C#
 
 <!--
 **JaydenHProgrammer/JaydenHProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
