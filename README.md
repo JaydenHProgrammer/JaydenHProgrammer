@@ -1,5 +1,7 @@
 # Jayden Houtekeete
-## Ervaringen✨
+Ik ben Jayden Houtekeete, 17 jaar oud en ik ben een Student aan VTI Waregem
+## Opleidingen✨
+- VTI Waregem
 ## Contact📞
 Tel: +32 474 02 91 80
 
@@ -10,8 +12,11 @@ Email: jayden.houtekeete1@gmail.com
 - HTML
 - CSS
 - Python
-- C++
+- C++ (Arduino)
 - SQL
+- Ubuntu
+- JavaScript
+- WPF
 ## Projecten📫
 GIP: https://github.com/JaydenHProgrammer/GIP-JaydenHoutekeete
 
