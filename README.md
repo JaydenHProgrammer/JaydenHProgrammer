@@ -2,6 +2,7 @@
 ## Ervaringen✨
 ## Contact📞
 Tel: +32 474 02 91 80
+
 Email: jayden.houtekeete1@gmail.com
 ## Skills⚡
 - C-Sharp
@@ -13,7 +14,9 @@ Email: jayden.houtekeete1@gmail.com
 - SQL
 ## Projecten📫
 GIP: https://github.com/JaydenHProgrammer/GIP-JaydenHoutekeete
+
 React: https://github.com/JaydenHProgrammer/React-JaydenHoutekeete
+
 JungleSpeed in C#
 
 <!--
