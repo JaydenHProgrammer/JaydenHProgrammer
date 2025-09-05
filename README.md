@@ -7,7 +7,7 @@ Tel: +32 474 02 91 80
 
 Email: jayden.houtekeete1@gmail.com
 ## Skills⚡
-- C-Sharp
+- C-Sharp <img width="128" height="142" alt="image" src="https://github.com/user-attachments/assets/15faf07a-1080-440e-a625-75d60d447013" />
 - Blazor
 - HTML
 - CSS
