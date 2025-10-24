@@ -10,7 +10,7 @@ Email: jayden.houtekeete1@gmail.com
 - C-Sharp
 - Blazor
 - HTML
-- CSS
+- CSS (default & tailwind)
 - Python
 - C++ (Arduino)
 - SQL
