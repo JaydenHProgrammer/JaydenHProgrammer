@@ -16,6 +16,7 @@ Email: jayden.houtekeete1@gmail.com
 - SQL
 - Ubuntu
 - JavaScript
+- Typescript (NodeJS, React)
 - WPF
 ## Projecten📫
 GIP: https://github.com/JaydenHProgrammer/GIP-JaydenHoutekeete
